@@ -154,7 +154,7 @@ packageTargets.append(contentsOf: [
         name: "LocalLLMClientLlamaFramework",
         url:
             "https://github.com/linrong123/LocalLLMClient/releases/download/b6871-catalyst/llama-b6871-xcframework-catalyst.zip",
-        checksum: "7bd385d9f51828579ec3bafa5eec30ebf7903169f3a03218a5ae34643946faea"
+        checksum: "8f09723affcdc652b7a0909be9e5c7e3cde599f193542a427a1c53a7cf79ad65"
     ),
     .target(
         name: "LocalLLMClientLlamaC",
